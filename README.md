@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franklin Ikenna Okeke
 =============================================================================================================================================
 
-Web developer, aspiring AWS Practitioner and CS50
+Web developer, aspiring AWS Practitioner and CyberSecurity Anaylyst
 ------------------------------------
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [FranklinOkeke\_CS@outlook.com](mailto:FranklinOkeke_CS@outlook.com)
-* 🧠  I'm learning How to build a website and Cyber Security
+* 🧠  I'm learning AWS CCP 
 * ⚡  I am currently a computer science student
 
 ### Skills
